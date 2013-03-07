@@ -12,6 +12,8 @@ Good question.
 ## How?
 
 Write some brainfuck and put it in a file. Here's the mandatory "Hello World!":
+
+'''
     +++++ +++++
     [
         > +++++ ++
@@ -33,10 +35,14 @@ Write some brainfuck and put it in a file. Here's the mandatory "Hello World!":
     ----- --- .
     > + .
     > .
+'''
 
 Then pass it to pbfi:
+
+'''
     $ ./pbfi bf/hello.bf
     Hello World!
+'''
 
 ## TODO
 
