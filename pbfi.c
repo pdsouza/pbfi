@@ -1,4 +1,6 @@
 /*
+ *    Preetam's BrainFuck Interpreter (pbfi).
+ *
  *    Copyright (C) 2013 Preetam D'Souza
  *
  *    This program is free software; you can redistribute it and/or
