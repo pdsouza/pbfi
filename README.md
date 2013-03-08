@@ -13,7 +13,7 @@ Good question.
 
 Write some [brainfuck](http://en.wikipedia.org/wiki/Brainfuck) and put it in a file. Here's the mandatory "Hello World!":
 
-```
+```brainfuck
     +++++ +++++
     [
         > +++++ ++
